@@ -43,4 +43,3 @@ class Card(ABC):
         if available_mana >= self.cost:
             return True
         return False
-

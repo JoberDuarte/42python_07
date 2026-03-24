@@ -4,6 +4,7 @@ from ex1.ArtifactCard import ArtifactCard
 from ex1.SpellCard import SpellCard
 from ex0.Card import Rarity
 
+
 def main() -> None:
     try:
         print("\n=== DataDeck Deck Builder ===\n")
